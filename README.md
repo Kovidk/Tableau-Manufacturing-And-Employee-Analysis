@@ -1,8 +1,5 @@
 # Tableau-Manufacturing-And-Employee-Analysis
 
-# Manufacturing Enhancing Manufacturing Efficiency Through Data Driven Insights tableau project
-
-
 # **Overview**
 
 This Power BI dashboard synthesizes complex manufacturing and employee performance datasets into actionable insights. Designed for manufacturing sector analysts, it focuses on enhancing operational efficiency and optimizing human resource allocation.
