@@ -2,7 +2,7 @@
 
 # **Overview**
 
-This Power BI dashboard synthesizes complex manufacturing and employee performance datasets into actionable insights. Designed for manufacturing sector analysts, it focuses on enhancing operational efficiency and optimizing human resource allocation.
+This Tableau dashboard synthesizes complex manufacturing and employee performance datasets into actionable insights. Designed for manufacturing sector analysts, it focuses on enhancing operational efficiency and optimizing human resource allocation.
 
 **Dashboard Description**
 
